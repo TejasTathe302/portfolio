@@ -528,8 +528,8 @@ header nav a:hover, header nav button:hover {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   width: 100%;
-  -webkit-filter: grayscale(100%);
-          filter: grayscale(100%);
+  -webkit-filter: grayscale(10%);
+          filter: grayscale(10%);
 }
 .br-hero .hero-content .br-hero-img .br-card:hover {
   -webkit-box-shadow: 0 0 22px 0 rgba(0, 0, 0, 0.5);
